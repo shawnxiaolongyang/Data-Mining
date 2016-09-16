@@ -1,0 +1,14 @@
+保存于2015.7.3
+
+FP_Growth算法python实现完全版
+
+此代码是在 Python2.7+eclipse 环境下编写的。可在eclipse中导入项目，也可在命令行窗口用python命令执行“__init__.py”文件。
+
+
+
+
+
+
+
+更多说明请见博客：
+http://blog.csdn.net/bone_ace/article/details/46746727

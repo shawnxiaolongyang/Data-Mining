@@ -1,0 +1,7 @@
+knowledge	base	111
+knowledge	discovery	104
+database	system	195
+database	relational	129
+data	base	138
+learning	reinforcement	117
+object	oriented	102

@@ -1,0 +1,30 @@
+For x1 = [overcast, hot, high, strong]:
+P (x1|yes) = 0.44*0.22*0.33*0.33 = 0.01
+p (x1|no) = 0 
+
+P (yes|x1) = 0.01*0.64 = 0.06
+P (no|x1)  = 0
+
+
+
+For x2 = [sunny, hot, normal, weak]:
+P (x2|yes) = 0.22*0.22*0.67*0.67 = 0.022
+p (x2|no) = 0.6*0.4*0.2*0.4 = 0.019
+P (yes|x2) = 0.022*0.64 = 0.014
+P (no|x2)  = 0.019*0.36 = 0.007
+
+
+For x3 = [rain, mild, normal, strong]:
+P (x3|yes) = 0.33*0.44*0.67*0.33 = 0.032
+p (x3|no) =  0.4*0.4*0.2*0.6 = 0.019
+
+P (yes|x3) = 0.032*0.64 = 0.020
+P (no|x3)  = 0.019*0.36 = 0.007
+
+
+For x4 = [overcast, cool, high, strong]:
+P (x4|yes) = 0.44*0.33*0.33*0.33 = 0.015
+p (x4|no) = 0
+
+P (yes|x4) = 0.015*0.64 = 0.01
+P (no|x4)  = 0

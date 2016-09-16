@@ -1,0 +1,16 @@
+system	distributed	125
+control	concurrency	107
+time	real	151
+query	system	100
+query	database	206
+query	xml	110
+query	data	144
+query	processing	313
+query	efficient	124
+query	optimization	173
+database	system	276
+database	distributed	132
+database	object	154
+data	system	106
+data	stream	112
+object	oriented	141

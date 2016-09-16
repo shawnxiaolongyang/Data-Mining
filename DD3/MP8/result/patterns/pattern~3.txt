@@ -1,0 +1,366 @@
+	database			12031
+	system			10008
+	knowledge			8480
+	learning			6338
+	reasoning			5975
+	logic			5770
+	data			5437
+	constraint			5060
+	model			4833
+	relational			4301
+	design			3805
+	based			3791
+	base			3710
+	approach			3699
+	planning			3690
+	theory			3571
+	program			3527
+	programming			3382
+	representation			3093
+	application			3044
+	reinforcement			2796
+	temporal			2733
+	management			2501
+	language			2495
+	rule			2466
+	schema			2428
+	domain			2321
+	object			2314
+	discovery			2238
+	abstract			2237
+	solving			2180
+	database	system		2034
+	action			1919
+	maintenance			1919
+	description			1867
+	concept			1801
+	belief			1768
+	using			1757
+	game			1757
+	oriented			1644
+	qualitative			1633
+	computer			1606
+	network			1542
+	framework			1520
+	relation			1515
+	dependency			1509
+	extended			1467
+	data	base		1425
+	semantics			1422
+	database	relational		1382
+	expert			1380
+	intelligence			1369
+	inference			1326
+	complexity			1299
+	information			1296
+	learning	reinforcement		1296
+	plan			1271
+	process			1254
+	inductive			1247
+	modeling			1236
+	tool			1223
+	diagnosis			1223
+	logical			1221
+	set			1203
+	satisfaction			1149
+	knowledge	base		1144
+	functional			1137
+	knowledge	discovery		1135
+	system	knowledge		1108
+	heuristic			1096
+database				1074
+	issue			1070
+	engineering			1062
+	integrating			1035
+	integration			1030
+	analysis			1028
+	environment			1013
+	production			1004
+	implementation			983
+	knowledge	representation		980
+	logic	program		960
+	deductive			955
+	object	oriented		954
+	towards			943
+	logic	programming		937
+	abstraction			936
+	system	management		934
+	panel			930
+	specification			929
+system				928
+	constraint	satisfaction		927
+	level			925
+	acquisition			918
+	artificial			918
+	formal			912
+	physical			907
+	mapping			905
+	automatic			895
+	system	data		894
+	theorem			885
+	system	expert		871
+	database	design		864
+	perspective			851
+	update			848
+	view			842
+	goal			836
+	practical			823
+	dbms			820
+	database	object		806
+	semantic			804
+	machine			803
+	default			776
+	method			767
+	incremental			766
+	technique			765
+	system	based		762
+	calculus			760
+	mechanism			754
+	type			750
+	intelligence	artificial		747
+	research			746
+	propagation			746
+	integrity			744
+	function			743
+knowledge				743
+	fault			742
+	knowledge	based		739
+	robot			737
+	conceptual			735
+	architecture			734
+	data	management		734
+	explanation			721
+	revision			720
+	database	knowledge		717
+	probabilistic			716
+	resolution			715
+	system	base		709
+	automated			706
+	database	oriented		704
+	proof			703
+	experience			698
+	computational			682
+	distributed			681
+	structure			677
+	incomplete			664
+	active			664
+	representing			659
+	data	model		656
+	causal			653
+	fuzzy			631
+	database	management		631
+	heterogeneous			630
+	software			629
+	algebra			625
+	simulation			622
+	technology			619
+	abstract	extended		614
+	human			613
+	business			611
+	form			609
+	space			607
+	database	approach		605
+	challenge			602
+	change			602
+	proving			598
+	database	application		591
+	intelligent			590
+	property			582
+	database	deductive		581
+	database	object	oriented	580
+	complex			580
+	hierarchy			579
+	dynamic			574
+	role			569
+	world			568
+	decomposition			563
+learning				558
+	report			556
+	data	relational		546
+	system	relational		543
+	system	design		536
+	multiple			530
+	model	based		526
+	database	language		524
+	database	discovery		524
+	database	model		518
+data				514
+	support			510
+logic				506
+reasoning				493
+model				446
+constraint				426
+based				375
+relational				375
+approach				339
+design				339
+base				337
+program				304
+planning				302
+theory				297
+programming				292
+application				284
+representation				263
+management				239
+temporal				231
+rule				227
+language				227
+reinforcement				224
+object				223
+schema				204
+domain				202
+discovery				202
+abstract				199
+database	system			195
+using				184
+solving				178
+oriented				163
+action				162
+concept				154
+description				154
+maintenance				151
+belief				151
+network				145
+game				145
+framework				139
+data	base			138
+computer				137
+qualitative				135
+extended				131
+database	relational			129
+relation				128
+information				126
+expert				125
+dependency				125
+semantics				122
+learning	reinforcement			117
+system	knowledge			115
+intelligence				114
+set				113
+modeling				112
+process				112
+tool				112
+inference				111
+complexity				111
+knowledge	base			111
+inductive				107
+plan				105
+knowledge	discovery			104
+logical				104
+diagnosis				102
+object	oriented			102
+analysis				101
+engineering				97
+functional				97
+system	management			96
+satisfaction				96
+integrating				96
+environment				95
+system	data			94
+heuristic				94
+issue				93
+integration				93
+implementation				90
+knowledge	representation			89
+logic	programming			89
+logic	program			87
+production				86
+database	design			85
+deductive				85
+database	object			84
+towards				84
+automatic				83
+acquisition				82
+system	expert			82
+level				82
+specification				82
+formal				81
+system	based			80
+constraint	satisfaction			80
+artificial				79
+panel				79
+mapping				79
+physical				78
+abstraction				78
+view				77
+update				76
+knowledge	based			76
+technique				76
+system	base			75
+database	oriented			75
+machine				74
+method				74
+semantic				74
+theorem				74
+perspective				73
+data	management			73
+practical				73
+dbms				73
+goal				71
+function				71
+type				69
+research				69
+integrity				68
+database	knowledge			68
+architecture				67
+mechanism				67
+calculus				66
+default				66
+data	model			66
+incremental				66
+structure				65
+distributed				65
+intelligence	artificial			65
+robot				64
+probabilistic				64
+database	object	oriented		63
+conceptual				63
+automated				63
+database	management			62
+resolution				62
+experience				62
+revision				62
+active				62
+explanation				62
+fault				61
+database	approach			61
+propagation				60
+software				59
+proof				58
+incomplete				58
+heterogeneous				58
+representing				58
+human				58
+abstract	extended			57
+computational				57
+database	application			57
+space				57
+causal				56
+model	based			56
+system	design			55
+system	relational			55
+complex				55
+intelligent				55
+technology				55
+dynamic				55
+fuzzy				54
+business				54
+simulation				54
+challenge				53
+algebra				53
+form				53
+database	deductive			53
+change				53
+role				52
+database	language			52
+database	model			52
+data	relational			52
+proving				51
+database	discovery			51
+multiple				51
+property				51
+report				50
+support				50
+world				50
+hierarchy				50
+decomposition				50

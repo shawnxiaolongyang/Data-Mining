@@ -1,0 +1,25 @@
+['classification', 'text'] 108
+['nearest', 'neighbor'] 121
+['machine', 'support'] 117
+['machine', 'vector'] 123
+['machine', 'vector', 'support'] 115
+['feature', 'selection'] 14learning
+['network', 'neural'] 101
+['network', 'bayesian'] 107
+['vector', 'support'] 14learning
+['learning', 'based'] 115
+['learning', 'machine'] 113
+['learning', 'using'] 147
+['learning', 'model'] 107
+['using', 'model'] 120
+['model', 'based'] 108
+['supervised', 'semi'] 105
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,356 @@
+	data			14112
+	mining			13247
+	algorithm			12064
+	graph			8497
+	time			6067
+	pattern			6030
+	tree			5711
+	efficient			5348
+	rule			4682
+	data	mining		4485
+	search			4297
+	association			3832
+	approximation			3559
+	clustering			3484
+	optimal			3252
+	using			3185
+	set			3173
+	fast			2778
+	based			2729
+	random			2667
+	dimensional			2621
+	finding			2559
+	rule	association		2536
+	detection			2516
+	space			2453
+	frequent			2355
+	path			2317
+	similarity			2315
+	stream			2178
+	series			2153
+	mining	pattern		2136
+	bound			2018
+	matching			1980
+	metric			1972
+	time	series		1959
+	approximate			1958
+	analysis			1876
+	discovering			1796
+	reduction			1718
+	mining	association		1708
+	mining	rule		1699
+	dynamic			1628
+	preserving			1591
+	application			1580
+	indexing			1548
+	sequence			1517
+	distance			1493
+	privacy			1469
+	method			1462
+	improved			1462
+	linear			1448
+	data	stream		1384
+	maximum			1355
+	local			1351
+	cluster			1335
+	sequential			1316
+	mining	rule	association	1294
+	via			1290
+				1288
+	computing			1287
+	discovery			1287
+	algorithm	approximation		1281
+	mining	frequent		1273
+	minimum			1243
+	technique			1237
+	decision			1235
+	expression			1225
+	constraint			1174
+				1163
+	sparse			1123
+	polynomial			1109
+	sampling			1107
+	algorithm	efficient		1105
+	temporal			1100
+				1087
+	computation			1084
+	data	clustering		1078
+	dimension			1058
+	map			1006
+	matrix			1000
+	value			991
+	flow			986
+	weighted			969
+	scheme			960
+	datasets			955
+	planar			946
+	structure			913
+	attribute			906
+	database			899
+	spatial			896
+	function			893
+	dimensionality			890
+	genetic			876
+	data	dimensional		867
+	data	set		852
+	mining	algorithm		843
+	simple			838
+	data	algorithm		834
+	outlier			831
+	line			822
+	estimation			816
+	measure			801
+	pattern	frequent		798
+	online			790
+	geometric			790
+	heuristic			774
+	preserving	privacy		772
+	approximating			772
+	tree	decision		771
+	free			768
+	string			762
+	correlation			740
+	algorithm	graph		731
+	partitioning			726
+	generalized			726
+	searching			722
+	field			721
+				720
+	bounded			717
+	edge			716
+	entropy			715
+	extended			714
+	complexity			706
+	sense			699
+	closed			695
+	binary			687
+	length			684
+	testing			683
+	mining	efficient		674
+	incremental			672
+	construction			669
+	data	privacy		667
+	data	efficient		662
+	error			659
+	partial			658
+	abstract			656
+	lower			655
+	data	time		654
+	data	based		653
+	itemsets			649
+	induction			648
+	compression			647
+	representation			647
+	massive			643
+	data	pattern		643
+	event			636
+	reduction	dimensionality		628
+	near			621
+	decomposition			620
+	minimal			616
+	mining	graph		614
+	efficiently			613
+	algorithm	fast		607
+	algorithm	time		606
+	bound	lower		602
+	directed			601
+	parallel			598
+	solution			598
+	convex			581
+	gene			580
+	tree	search		570
+	detecting			567
+	pattern	sequential		561
+				560
+	classification			558
+	data	using		558
+	algorithm	optimal		557
+	structured			555
+	algorithm	clustering		554
+	statistical			550
+	subspace			546
+	pruning			544
+	algorithm	tree		538
+	independent			532
+				528
+	search	similarity		526
+	distribution			518
+	multi			513
+minimal				509
+abstract	data	tree		508
+simple	mining	stream		507
+polynomial	data	analysis		505
+line	mining	based		491
+complexity				488
+weighted	algorithm	based		483
+estimation	mining	using		483
+random				416
+tree	mining			413
+tree				374
+tree				336
+measure				328
+fast				320
+event				304
+application				291
+discovering				290
+path				279
+free				253
+closed				242
+via	association			233
+statistical				230
+map				227
+pruning				227
+multi				227
+constraint				222
+sense				211
+planar				209
+minimum				204
+structure	pattern			203
+detection				202
+distance	series			194
+classification				182
+dimensional				181
+clustering				175
+series				170
+compression				161
+massive	rule			159
+induction	association			159
+near				157
+field				153
+structured				149
+efficiently				145
+partitioning				142
+outlier	stream			141
+subspace				141
+rule				140
+rule				138
+searching				135
+matching				134
+maximum				128
+algorithm	frequent			127
+algorithm				125
+algorithm				123
+algorithm	rule	association		123
+algorithm				122
+algorithm				122
+algorithm				120
+algorithm				118
+algorithm				117
+algorithm				117
+based	approximation			116
+testing				115
+bounded				113
+representation				113
+convex	clustering			108
+lower				107
+construction	efficient			107
+time				106
+time				102
+method				102
+genetic				102
+sparse				97
+metric				93
+value				92
+database				92
+mining				90
+mining				90
+mining				89
+mining	algorithm			88
+mining	algorithm			87
+mining	set			87
+mining				87
+mining				86
+mining				86
+mining				86
+mining	dimensional			86
+mining				85
+search				85
+search				83
+data				83
+data				83
+data				80
+data	frequent			77
+data				77
+data				76
+data	graph			76
+data				75
+data				75
+data	decision			74
+data				74
+data				73
+data				73
+data	based			73
+data	time			70
+distribution				70
+incremental	privacy			70
+association				69
+scheme	efficient			69
+indexing	efficient			69
+frequent				69
+itemsets				69
+online				68
+stream				66
+geometric				66
+extended				66
+parallel				66
+space				66
+graph	using			65
+efficient	pattern			65
+similarity				65
+string	time			64
+attribute				64
+approximate				64
+sampling				63
+finding				63
+heuristic				63
+sequence				63
+set	privacy			63
+entropy				63
+function				62
+partial				62
+using				61
+edge				61
+improved				61
+length				61
+flow				60
+computing				60
+generalized				60
+cluster				59
+matrix				59
+solution	fast			59
+pattern				58
+pattern				57
+pattern				57
+binary				57
+technique	graph			57
+local				57
+optimal				57
+linear	lower			57
+datasets				56
+spatial				56
+temporal	dimensionality			56
+dimension				56
+directed				55
+dimensionality	tree			54
+reduction	clustering			54
+reduction	based			54
+discovery	optimal			54
+computation	based			54
+approximation	using			54
+decomposition	sequential			54
+gene				53
+expression				53
+analysis				53
+privacy				52
+preserving				52
+preserving	similarity			52
+error	tree			52
+approximating	analysis			52
+independent				52
+detecting				52
+dynamic	search			51
+bound				51
+bound				51
+correlation	stream			51
+decision				50
+sequential				50

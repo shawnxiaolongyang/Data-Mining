@@ -1,0 +1,12 @@
+['rule', 'association'] 233
+['algorithm', 'efficient'] 107
+['algorithm', 'approximation'] 116
+['time', 'series'] 194
+['mining', 'rule'] 159
+['mining', 'rule', '407'] 123
+['mining', 'association] 159
+['mining', 'frequent'] 127
+['mining', 'pattern'] 203
+['data', 'clustering'] 108
+['data', 'mining'] 413
+['data', 'stream'] 141
